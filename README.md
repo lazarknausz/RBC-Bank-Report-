@@ -2,7 +2,7 @@
 
 This report contains a detailed review about customer's account and an overview of the current Churn rate.
 
---
+
 ## Company Problem
 
 1. Don't know their customer's informations and can't send personal
