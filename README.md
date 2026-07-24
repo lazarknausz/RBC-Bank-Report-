@@ -1,11 +1,13 @@
-# RBC-Bank-Report-
+# RBC-Bank-Report
+
 This report contains a detailed review about customer's account and an overview of the current Churn rate.
 --
 ## Company Problem
-**1.** Don't know their customer's informations and can't send personal
+
+1. Don't know their customer's informations and can't send personal
    email marketing messages to the target audience.
-**2.** Don't know which months and years are critical in terms of Churn rate.
-**3.** Don't know how many of their customers use actively the bank.
+2. Don't know which months and years are critical in terms of Churn rate.
+3. Don't know how many of their customers use actively the bank.
 --------------------------------------------------------------------------
 ## Problem Solving
 **First Step:**
